@@ -1,4 +1,6 @@
 # pluralsight-js-dev-env
 
-# plugins
+# plugins for VS
 EditorConfig for VS Code
+ESLint
+Path Intellisense
